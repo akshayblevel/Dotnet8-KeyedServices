@@ -1,0 +1,6 @@
+@Dotnet8_KeyedServices_HostAddress = http://localhost:5097
+
+GET {{Dotnet8_KeyedServices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

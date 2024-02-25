@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Wb8W7+fXl7mT4lM9BxRe7Ou9iojwffga1a/pjnzdpvk=",
+  "Source": "Dotnet8-KeyedServices",
+  "BasePath": "_content/Dotnet8-KeyedServices",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
